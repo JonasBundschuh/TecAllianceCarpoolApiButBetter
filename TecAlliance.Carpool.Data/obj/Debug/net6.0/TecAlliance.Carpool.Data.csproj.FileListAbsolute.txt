@@ -1,0 +1,15 @@
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\bin\Debug\net6.0\CSV-Files\Carpool.csv
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\bin\Debug\net6.0\TecAlliance.Carpool.Data.deps.json
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\bin\Debug\net6.0\TecAlliance.Carpool.Data.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\bin\Debug\net6.0\TecAlliance.Carpool.Data.pdb
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.csproj.AssemblyReference.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.Properties.Resources.resources
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.csproj.GenerateResource.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.AssemblyInfoInputs.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.AssemblyInfo.cs
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.csproj.CoreCompileInputs.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\refint\TecAlliance.Carpool.Data.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\TecAlliance.Carpool.Data.pdb
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Data\obj\Debug\net6.0\ref\TecAlliance.Carpool.Data.dll
