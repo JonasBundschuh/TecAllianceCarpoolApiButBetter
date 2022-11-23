@@ -1,0 +1,16 @@
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\CSV-Files\Carpool.csv
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\TecAlliance.Carpool.Business.deps.json
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\TecAlliance.Carpool.Business.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\TecAlliance.Carpool.Business.pdb
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\TecAlliance.Carpool.Data.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\bin\Debug\net6.0\TecAlliance.Carpool.Data.pdb
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.csproj.AssemblyReference.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.AssemblyInfoInputs.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.AssemblyInfo.cs
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.csproj.CoreCompileInputs.cache
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.csproj.CopyComplete
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\refint\TecAlliance.Carpool.Business.dll
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\TecAlliance.Carpool.Business.pdb
+C:\001\016CarpoolApi\TecAlliance.Carpool.Api\TecAlliance.Carpool.Buisness\obj\Debug\net6.0\ref\TecAlliance.Carpool.Business.dll
