@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U86mhD9p8bSqFoKAhBIoGPg4KnqIUzpqw3bLFk7K+gL64k8HvO+KP8kkFOuIDN5NfqgAfpjZJQP0g1blnm4IDA==",
+  "dgSpecHash": "mH9EE8oum2UjK5M/enZD+ZDY0B7DPPlKokW/6e1NLVFOwHNQN+FYJIX6FZzY1zQoL8t85yqqZpk8Siuti3dTgQ==",
   "success": true,
-  "projectFilePath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
+  "projectFilePath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JBU\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\JBU\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

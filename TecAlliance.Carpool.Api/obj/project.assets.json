@@ -1149,11 +1149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj",
+      "projectUniqueName": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj",
       "projectName": "TecAlliance.Carpool.Api",
-      "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj",
+      "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj",
       "packagesPath": "C:\\Users\\JBU\\.nuget\\packages\\",
-      "outputPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api\\obj\\",
+      "outputPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1170,8 +1170,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj": {
-              "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj"
+            "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj": {
+              "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj"
             }
           }
         }

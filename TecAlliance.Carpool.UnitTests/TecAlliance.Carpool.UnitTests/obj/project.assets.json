@@ -7611,11 +7611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.Data.UnitTests.csproj",
+      "projectUniqueName": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.Data.UnitTests.csproj",
       "projectName": "TecAlliance.Carpool.Data.UnitTests",
-      "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.Data.UnitTests.csproj",
+      "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.Data.UnitTests.csproj",
       "packagesPath": "C:\\Users\\JBU\\.nuget\\packages\\",
-      "outputPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\obj\\",
+      "outputPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.UnitTests\\TecAlliance.Carpool.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7632,14 +7632,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj": {
-              "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj"
+            "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj": {
+              "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Api.csproj"
             },
-            "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj": {
-              "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj"
+            "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj": {
+              "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Buisness\\TecAlliance.Carpool.Business.csproj"
             },
-            "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {
-              "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj"
+            "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {
+              "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj"
             }
           }
         }

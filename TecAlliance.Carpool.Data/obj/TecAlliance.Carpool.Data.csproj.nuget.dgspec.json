@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {}
+    "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {}
   },
   "projects": {
-    "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {
+    "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
+        "projectUniqueName": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
         "projectName": "TecAlliance.Carpool.Data",
-        "projectPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
+        "projectPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\TecAlliance.Carpool.Data.csproj",
         "packagesPath": "C:\\Users\\JBU\\.nuget\\packages\\",
-        "outputPath": "C:\\001\\016CarpoolApi\\TecAlliance.Carpool.Api\\TecAlliance.Carpool.Data\\obj\\",
+        "outputPath": "C:\\001\\017TecAllianceCarpoolApiButBetter\\TecAlliance.Carpool.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JBU\\AppData\\Roaming\\NuGet\\NuGet.Config",
