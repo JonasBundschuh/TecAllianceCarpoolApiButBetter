@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N9d4LjkfwCG2EVOjmBfJLBhGrwdjL9qd+3hrPBX48TQ=",
+  "Source": "TecAlliance.Carpool.Api",
+  "BasePath": "_content/TecAlliance.Carpool.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

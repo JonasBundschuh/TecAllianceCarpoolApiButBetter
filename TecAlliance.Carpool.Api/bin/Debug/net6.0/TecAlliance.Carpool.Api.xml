@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TecAlliance.Carpool.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.Post(TecAlliance.Carpool.Business.Models.CarpoolDto,System.Int32)">
+            <summary>
+            You can create a new individual Carpool
+            </summary>
+            <param name="carpoolDtos"></param>
+            <param name="userId">is equivalent to your personal Id </param>
+            <returns>A newly created Carpool</returns>
+            <response code="201">Returns the newly created item</response>
+            <response code="400">If the item is null</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.GetById(System.Int32)">
+            <summary>
+            Function to find any Carpool due to their individual Id
+            </summary>
+            <param name="Id">is a uniqe Id which is needed to identify each Carpool</param>
+            <returns>A Carpool based on its Id</returns>
+            <response code="200">Returns the Carpool based on its uniqe Id</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.Get">
+            <summary>
+            Function to display all Carpools ever created
+            </summary>
+            <returns>All Carpools ever created</returns>
+            <response code="200">Returns all Carpools ever created</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.Delete">
+            <summary>
+            Function to delete every Carpool
+            </summary>
+            <returns></returns>
+            <response code="200">Deletes every Carpool ever created</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.DeleteById(System.Int32)">
+            <summary>
+            Function to delete an Carpool based on its unige Id
+            </summary>
+            <param name="Id">is equivalent to a uniqe Id which is needed to identify the Carpool</param>
+            <returns></returns>
+            <response code="200">Deletes one Carpool based on its Id</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.PutByIdJoin(System.Int32,System.Int32)">
+            <summary>
+            Function to join a Carpool
+            </summary>
+            <param name="carpoolId">is needed to identify the carpool you want to join</param>
+            <param name="userId">is equivalent to your uniqe Id, is needed in order to add you to the Carpool</param>
+            <returns></returns>
+            <response code="204">User entered the Carpool</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.PutByIdLeave(System.Int32,System.Int32)">
+            <summary>
+            Function to leave a Carpool
+            </summary>
+            <param name="carpoolId">is needed to identify the carpool you want to leave</param>
+            <param name="userId">is equivalent to your uniqe Id, is needed in order to remove  you from the Carpool</param>
+            <returns></returns>
+            <response code="204">User left the Carpool</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.CarpoolController.PutChangeCarpoolName(System.String,System.Int32)">
+            <summary>
+            Function to change the Carpoolname
+            </summary>
+            <param name="carpoolName"></param>
+            <param name="carpoolId">is needed to identify the carpool you want to update</param>
+            <returns></returns>
+            <response code="204">Carpoolname was changed</response>
+            <response code="404">If the Carpool/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.PassengerController.Post(TecAlliance.Carpool.Business.Models.PassengerDto)">
+            <summary>
+            Creates an new Passengerprofile
+            </summary>
+            <param name="driverDto"></param>
+            <returns></returns>
+            <response code="201">Returns the newly created Passenger</response>
+            <response code="400">If the item is null</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.PassengerController.GetById(System.Int32)">
+            <summary>
+             Function to find any Passenger based on their individual Id
+            </summary>
+            <param name="Id">is a uniqe Id which is needed to identify each Passenger</param>
+            <returns></returns>
+            <response code="200">Returns the Passenger based on its uniqe Id</response>
+            <response code="404">If the Passenger/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.PassengerController.Get">
+            <summary>
+            Function to display all Passengers ever created
+            </summary>
+            <returns></returns>
+            <response code="200">Returns all Passenger ever created</response>
+            <response code="404">If the Passenger/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.PassengerController.Delete">
+            <summary>
+            Function to delete every Passenger
+            </summary>
+            <returns></returns>
+            <response code="200">Deletes every Passenger ever created</response>
+            <response code="404">If the Passenger/File does not exists</response>
+        </member>
+        <member name="M:TecAlliance.Carpool.Api.Controllers.PassengerController.DeleteById(System.Int32)">
+            <summary>
+            Function to delete a Passenger based on its unige Id
+            </summary>
+            <param name="Id">is equivalent to a uniqe Id which is needed to identify the Passenger</param>
+            <returns></returns>
+            <response code="200">Deletes one Passenger based on its Id</response>
+            <response code="404">If the Passenger/File does not exists</response>
+        </member>
+    </members>
+</doc>
